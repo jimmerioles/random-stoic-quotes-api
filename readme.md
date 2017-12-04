@@ -1,1 +1,1 @@
-# Inspiring Random Quotes API
+# Random Inspiring Quotes API
