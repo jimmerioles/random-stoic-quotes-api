@@ -1,5 +1,11 @@
 <?php
 
+$pgsqlUrl = parse_url(env("DATABASE_URL"));
+$host = $pgsqlUrl['host'];
+$username = $pgsqlUrl['user'];
+$password = $pgsqlUrl['pass'];
+$database = substr($pgsqlUrl['path'], 1);
+
 return [
 
     /*
@@ -30,12 +36,6 @@ return [
     | choice installed on your machine before you begin development.
     |
     */
-
-    $pgsqlUrl = parse_url(env("DATABASE_URL"));
-    $host = $pgsqlUrl['host'];
-    $username = $pgsqlUrl['user'];
-    $password = $pgsqlUrl['pass'];
-    $database = substr($pgsqlUrl['path'], 1);
 
     'connections' => [
 
