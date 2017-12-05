@@ -1,8 +1,6 @@
 # Random Inspiring Quotes API
 This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of inspiring quotes from notable individuals.
 
-If you have any request for other features that you would like for me to add see [Contributing][link-contributing].
-
 ## Features
 
 * JSON API v1 compliant
