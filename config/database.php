@@ -1,6 +1,6 @@
 <?php
 
-$pgsqlUrl = parse_url(env("DATABASE_URL", 'postgres://ypjqyqzqvvfcte:7966f13832d05afd4e6337de1db04a80b6617519e30686ba4bca109c86b042f3@ec2-54-235-219-113.compute-1.amazonaws.com:5432/darb6p29pt3ms'));
+$pgsqlUrl = parse_url(env("DATABASE_URL", 'postgres://yegtzjltjwuuor:d4dffb60fa67012db60788d62f6673a3ac7d9bd682a6cbb448bbc120789bfde9@ec2-54-243-211-197.compute-1.amazonaws.com:5432/da73ibh883n87u'));
 $host = $pgsqlUrl['host'];
 $username = $pgsqlUrl['user'];
 $password = $pgsqlUrl['pass'];
