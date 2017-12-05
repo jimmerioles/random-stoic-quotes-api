@@ -1,5 +1,5 @@
 # Random Inspiring Quotes API
-[JSON API v1](http://jsonapi.org) compliant Web API for freeCodeCamp's "Build a Random Quote Machine" challenge.
+This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of inspiring quotes from famous people.
 
 ## API Endpoints
 ![Endpoints](https://user-images.githubusercontent.com/9766310/33596375-75660918-d9d6-11e7-92c3-8a6dd430d097.png)
