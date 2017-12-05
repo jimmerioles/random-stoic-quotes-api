@@ -10,16 +10,13 @@ This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of 
 ### API Endpoints
 ![Endpoints](https://user-images.githubusercontent.com/9766310/33596375-75660918-d9d6-11e7-92c3-8a6dd430d097.png)
 
-
 ### Sample API Request
-```
+``` bash
 curl --header "Accept: application/vnd.api+json" https://random-inspiring-quotes-api.herokuapp.com/api/v1/quotes
 ```
 
 ### Sample API Response
 ![Response](https://user-images.githubusercontent.com/9766310/33598117-8e0e2396-d9dc-11e7-81cd-d23c0bb17a2e.png)
-
-
 
 ## Change log
 
@@ -69,7 +66,7 @@ Help me find Satoshi Nakamoto! | or fuel me with Ether :coffee:
 [link-coinbase-rates]: https://www.coinbase.com/charts
 [link-coindesk-rates]: https://www.coindesk.com/price
 [link-bitpay-rates]: https://bitpay.com/bitcoin-exchange-rates
-[link-changelog]: https://github.com/jimmerioles/random-inspiring-quotes-api/blob/master/CHANGELOG.md
+[link-changelog]: https://github.com/jimmerioles/random-inspiring-quotes-api/releases
 [link-issue]: https://github.com/jimmerioles/random-inspiring-quotes-api/issues/new
 [link-pull-request]: https://github.com/jimmerioles/random-inspiring-quotes-api/pull/new/master
 [link-contributing]: https://github.com/jimmerioles/random-inspiring-quotes-api#contributing
