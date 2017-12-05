@@ -1,7 +1,7 @@
 # Random Inspiring Quotes API
 This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of inspiring quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://random-inspiring-quotes-api.herokuapp.com
 
-Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your first request might take abit longer to return response.
+Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your first request might take a bit longer to receive response.
 
 ## Features
 
