@@ -11,42 +11,42 @@ class AuthorsTableSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Robert Downey Jr.',
             'image' => 'robertdowneyjr-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Winston Churchill',
             'image' => 'winstonchurchill-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Georges St-Pierre',
             'image' => 'georgesstpierre-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Capt. Jack Sparrow',
             'image' => 'captjacksparrow-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'William Ernest Henley',
             'image' => 'williamernesthenley-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Albert Einstein',
             'image' => 'alberteinstein-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Lucius Annaeus Seneca',
             'image' => 'luciusannaeusseneca-m.jpg'
         ]);
 
-        DB::table('authors')->insert([
+        \App\Author::create([
             'name' => 'Marcus Aurelius',
             'image' => 'marcusaurelius-m.jpg'
         ]);
