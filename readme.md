@@ -1,5 +1,5 @@
 # Random Stoic Quotes API
-This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of stoic quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://random-stoic-quotes-api.herokuapp.com
+This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of stoic quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://randomstoicquotesapi.herokuapp.com
 
 Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your first request might take a bit longer to receive response.
 
@@ -14,7 +14,7 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 
 ### Sample API Request
 ``` bash
-curl --header "Accept: application/vnd.api+json" https://random-stoic-quotes-api.herokuapp.com/api/v1/quotes
+curl --header "Accept: application/vnd.api+json" https://randomstoicquotesapi.herokuapp.com/api/v1/quotes
 ```
 
 ### Sample API Response
