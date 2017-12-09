@@ -1,5 +1,5 @@
-# Random Inspiring Quotes API
-This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of inspiring quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://random-inspiring-quotes-api.herokuapp.com
+# Random Stoic Quotes API
+This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of stoic quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://random-stoic-quotes-api.herokuapp.com
 
 Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your first request might take a bit longer to receive response.
 
@@ -14,7 +14,7 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 
 ### Sample API Request
 ``` bash
-curl --header "Accept: application/vnd.api+json" https://random-inspiring-quotes-api.herokuapp.com/api/v1/quotes
+curl --header "Accept: application/vnd.api+json" https://random-stoic-quotes-api.herokuapp.com/api/v1/quotes
 ```
 
 ### Sample API Response
@@ -64,11 +64,11 @@ Help me find Satoshi Nakamoto! | or fuel me with Ether :coffee:
 [ico-ethereum]: https://img.shields.io/badge/Ethereum-0x7896E9C4118e495Eb7001a847BBFA3C29Dfc69d9-blue.svg?style=flat-square
 
 [link-author]: https://twitter.com/jimmerioles
-[link-contributors]: https://github.com/jimmerioles/random-inspiring-quotes-api/graphs/contributors
+[link-contributors]: https://github.com/jimmerioles/random-stoic-quotes-api/graphs/contributors
 [link-coinbase-rates]: https://www.coinbase.com/charts
 [link-coindesk-rates]: https://www.coindesk.com/price
 [link-bitpay-rates]: https://bitpay.com/bitcoin-exchange-rates
-[link-changelog]: https://github.com/jimmerioles/random-inspiring-quotes-api/releases
-[link-issue]: https://github.com/jimmerioles/random-inspiring-quotes-api/issues/new
-[link-pull-request]: https://github.com/jimmerioles/random-inspiring-quotes-api/pull/new/master
-[link-contributing]: https://github.com/jimmerioles/random-inspiring-quotes-api#contributing
+[link-changelog]: https://github.com/jimmerioles/random-stoic-quotes-api/releases
+[link-issue]: https://github.com/jimmerioles/random-stoic-quotes-api/issues/new
+[link-pull-request]: https://github.com/jimmerioles/random-stoic-quotes-api/pull/new/master
+[link-contributing]: https://github.com/jimmerioles/random-stoic-quotes-api#contributing
