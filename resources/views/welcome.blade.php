@@ -69,11 +69,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Random Inspiring Quotes API
+                    Random Stoic Quotes API
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/jimmerioles/inspiring-random-quotes-api">GitHub</a>
+                    <a href="https://github.com/jimmerioles/random-stoic-quotes-api">Documentation</a>
                     <a href="https://twitter.com/jimmerioles">Twitter</a>
                 </div>
             </div>
