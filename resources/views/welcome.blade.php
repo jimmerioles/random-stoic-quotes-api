@@ -73,7 +73,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/jimmerioles/random-stoic-quotes-api">Documentation</a>
+                    <a href="https://github.com/jimmerioles/random-stoic-quotes-api/blob/master/readme.md">Documentation</a>
+                    <a href="https://github.com/jimmerioles/random-stoic-quotes-api">Repository</a>
                     <a href="https://twitter.com/jimmerioles">Twitter</a>
                 </div>
             </div>
