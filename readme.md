@@ -55,7 +55,7 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ### Want to show some :heart:?
 
-Let's find Satoshi Nakamoto! | or buy me a :coffee:
+Let's find Satoshi Nakamoto! | or let's have a :coffee:
 ------------ | ------------
 ![Donate Bitcoin][ico-bitcoin] | ![Donate Ethereum][ico-ethereum]
 
