@@ -42,6 +42,7 @@ class QuotesTableSeeder extends Seeder
         $author = \App\Author::where('name', 'Capt. Jack Sparrow')->first();
         $author->quotes()->saveMany([
             new \App\Quote(['text' => 'The problem is not the problem, the problem is your attitude about the problem.']),
+            new \App\Quote(['text' => 'Not all treasure is silver and gold, mate.']),
         ]);
     }
 
