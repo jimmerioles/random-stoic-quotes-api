@@ -25,7 +25,7 @@ class QuotesTableSeeder extends Seeder
     {
         $author = \App\Author::where('name', 'Winston Churchill')->first();
         $author->quotes()->saveMany([
-            new \App\Quote(['text' => 'If you\'re going through hell, keep going.'])
+            new \App\Quote(['text' => 'If you\'re going through hell, keep going.']),
         ]);
     }
 
@@ -33,7 +33,7 @@ class QuotesTableSeeder extends Seeder
     {
         $author = \App\Author::where('name', 'Georges St-Pierre')->first();
         $author->quotes()->saveMany([
-            new \App\Quote(['text' => 'I trained myself to fight an army, so one guy will not defeat me.'])
+            new \App\Quote(['text' => 'I trained myself to fight an army, so one guy will not defeat me.']),
         ]);
     }
 
@@ -41,7 +41,7 @@ class QuotesTableSeeder extends Seeder
     {
         $author = \App\Author::where('name', 'Capt. Jack Sparrow')->first();
         $author->quotes()->saveMany([
-            new \App\Quote(['text' => 'The problem is not the problem, the problem is your attitude about the problem.'])
+            new \App\Quote(['text' => 'The problem is not the problem, the problem is your attitude about the problem.']),
         ]);
     }
 
@@ -49,7 +49,7 @@ class QuotesTableSeeder extends Seeder
     {
         $author = \App\Author::where('name', 'William Ernest Henley')->first();
         $author->quotes()->saveMany([
-            new \App\Quote(['text' => 'I am the master of my fate; The captain of my soul.'])
+            new \App\Quote(['text' => 'I am the master of my fate; The captain of my soul.']),
         ]);
     }
 
@@ -65,7 +65,7 @@ class QuotesTableSeeder extends Seeder
             new \App\Quote(['text' => 'You never fail until you stop trying.']),
             new \App\Quote(['text' => 'Once we accept our limits, we go beyond them.']),
             new \App\Quote(['text' => 'If you want to live a happy life, tie it to a goal, not to people or things.']),
-            new \App\Quote(['text' => 'Only those who attempt the absurd can achieve the impossible.'])
+            new \App\Quote(['text' => 'Only those who attempt the absurd can achieve the impossible.']),
         ]);
     }
 
@@ -73,7 +73,9 @@ class QuotesTableSeeder extends Seeder
     {
         $author = \App\Author::where('name', 'Robert Downey Jr.')->first();
         $author->quotes()->saveMany([
-            new \App\Quote(['text' => 'Remember that just because you hit bottom doesn’t mean you have to stay there.'])
+            new \App\Quote(['text' => 'Remember that just because you hit bottom doesn’t mean you have to stay there.']),
+            new \App\Quote(['text' => 'There’s somewhere you’re suppoused to go, and if you get quiet enough, you’ll make it.']),
+            new \App\Quote(['text' => 'The higher the stakes, the happier I am, the better I will be.']),
         ]);
     }
 
@@ -90,7 +92,8 @@ class QuotesTableSeeder extends Seeder
             new \App\Quote(['text' => 'Only time can heal what reason cannot.']),
             new \App\Quote(['text' => 'Most powerful is he who has himself in his own power.']),
             new \App\Quote(['text' => 'Fate leads the willing, and drags along the reluctant.']),
-            new \App\Quote(['text' => 'Eyes will not see when the heart wishes them to be blind.'])
+            new \App\Quote(['text' => 'Eyes will not see when the heart wishes them to be blind.']),
+            new \App\Quote(['text' => 'A gem cannot be polished without friction, nor a man without trials.']),
         ]);
     }
 
@@ -100,7 +103,8 @@ class QuotesTableSeeder extends Seeder
         $author->quotes()->saveMany([
             new \App\Quote(['text' => 'Waste no more time arguing what a good man should be. Be One.']),
             new \App\Quote(['text' => 'Your task is to stand straight; not to be held straight.']),
-            new \App\Quote(['text' => 'The true worth of a man is to be measured by the objects he pursues.'])
+            new \App\Quote(['text' => 'The true worth of a man is to be measured by the objects he pursues.']),
+            new \App\Quote(['text' => 'Dwell on the beauty of life. Watch the stars, and see yourself running with them.']),
         ]);
     }
 }
