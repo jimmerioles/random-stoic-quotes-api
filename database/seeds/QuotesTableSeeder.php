@@ -75,7 +75,7 @@ class QuotesTableSeeder extends Seeder
         $author = \App\Author::where('name', 'Robert Downey Jr.')->first();
         $author->quotes()->saveMany([
             new \App\Quote(['text' => 'Remember that just because you hit bottom doesn’t mean you have to stay there.']),
-            new \App\Quote(['text' => 'There’s somewhere you’re suppoused to go, and if you get quiet enough, you’ll make it.']),
+            new \App\Quote(['text' => 'There’s somewhere you’re supposed to go, and if you get quiet enough, you’ll make it.']),
             new \App\Quote(['text' => 'The higher the stakes, the happier I am, the better I will be.']),
         ]);
     }
