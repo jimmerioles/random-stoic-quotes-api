@@ -20,11 +20,11 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:creator" content="@jimmerioles">
         <meta name="twitter:title" content="Random Stoic Quotes API">
-        <meta name="twitter:description" content="A random stoic quotes Web API back-end (Server-side Web API). JSON API v1 and CORS compliant.">
+        <meta name="twitter:description" content="A free random stoic quotes Web API. JSON API v1 and CORS compliant.">
         <meta name="twitter:image" content="https://randomstoicquotesapi.herokuapp.com/images/site-image-lg.jpg">
 
         <meta property="og:title" content="Random Stoic Quotes API">
-        <meta property="og:description" content="A random stoic quotes Web API back-end (Server-side Web API). JSON API v1 and CORS compliant.">
+        <meta property="og:description" content="A free random stoic quotes Web API. JSON API v1 and CORS compliant.">
         <meta property="og:image" content="https://randomstoicquotesapi.herokuapp.com/images/site-image-lg.jpg">
         <meta property="og:url" content="https://randomstoicquotesapi.herokuapp.com">
 
