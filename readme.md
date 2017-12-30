@@ -6,6 +6,7 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 ## Features
 
 * JSON API v1 compliant
+* CORS compliant
 
 ## Usage
 
