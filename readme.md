@@ -7,6 +7,7 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 
 * JSON API v1 compliant
 * CORS compliant
+* Serves author image
 
 ## Usage
 
