@@ -14,8 +14,21 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="A random stoic quotes Web API back-end (Server-side Web API). JSON API v1 and CORS compliant.">
+        <meta name="theme-color" content="#636B6F">
 
-        <title>Random Inspiring Quotes API</title>
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:creator" content="@jimmerioles">
+        <meta name="twitter:title" content="Random Stoic Quotes API">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="https://randomstoicquotesapi.herokuapp.com/images/site-image-lg.jpg">
+
+        <meta property="og:title" content="A Tribute to Sergeant Stubby">
+        <meta property="og:description" content="A random stoic quotes Web API back-end (Server-side Web API). JSON API v1 and CORS compliant.">
+        <meta property="og:image" content="https://randomstoicquotesapi.herokuapp.com/images/site-image-lg.jpg">
+        <meta property="og:url" content="https://randomstoicquotesapi.herokuapp.com">
+
+        <title>Random Stoic Quotes API</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
