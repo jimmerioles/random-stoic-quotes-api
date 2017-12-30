@@ -8,6 +8,9 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 * JSON API v1 compliant
 * CORS compliant
 
+## Built With
+* Laravel 5.5
+
 ## Usage
 
 ### API Endpoints
