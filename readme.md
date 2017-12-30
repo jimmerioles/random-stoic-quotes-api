@@ -67,10 +67,6 @@ Let's find Satoshi Nakamoto! | or let's have a :coffee:
 
 [link-author]: https://twitter.com/jimmerioles
 [link-contributors]: https://github.com/jimmerioles/random-stoic-quotes-api/graphs/contributors
-[link-coinbase-rates]: https://www.coinbase.com/charts
-[link-coindesk-rates]: https://www.coindesk.com/price
-[link-bitpay-rates]: https://bitpay.com/bitcoin-exchange-rates
 [link-changelog]: https://github.com/jimmerioles/random-stoic-quotes-api/releases
 [link-issue]: https://github.com/jimmerioles/random-stoic-quotes-api/issues/new
 [link-pull-request]: https://github.com/jimmerioles/random-stoic-quotes-api/pull/new/master
-[link-contributing]: https://github.com/jimmerioles/random-stoic-quotes-api#contributing
