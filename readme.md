@@ -1,4 +1,6 @@
-# Random Stoic Quotes API
+![randomstoicquotesapi herokuapp com_](https://user-images.githubusercontent.com/9766310/36502408-d12869da-1784-11e8-8953-e39ec5b38f5d.png)
+
+# [Random Stoic Quotes API](https://randomstoicquotesapi.herokuapp.com)
 This [JSON API v1](http://jsonapi.org) compliant Web API provides collection of stoic quotes from notable individuals. Please feel free to use the endpoint for your project. Available in https://randomstoicquotesapi.herokuapp.com
 
 Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your first request might take a bit longer to receive response.
@@ -8,6 +10,9 @@ Note: Heroku free dynos sleep after 30 minutes of inactivity so sometimes your f
 * JSON API v1 compliant
 * CORS compliant
 * Serves author image
+
+## Built With
+* Laravel 5.5
 
 ## Usage
 
